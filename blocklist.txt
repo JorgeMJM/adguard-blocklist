@@ -25,3 +25,8 @@
 @@||s.youtube.com^
 ||googletagmanager.com^
 ||quantcast.com^
+||ads.microsoft.com^
+||rubiconproject.com^
+||cdn.indexexchange.com^
+||inmobi.com^
+||youtubei.googleapis.com^
