@@ -20,3 +20,6 @@
 ||adtech.yahooinc.com^
 ||appmetrica.yandex.ru^
 ||metrika.yandex.ru^
+||cdn.taboola.com^
+||redirector.googlevideo.com^
+@@||s.youtube.com^
