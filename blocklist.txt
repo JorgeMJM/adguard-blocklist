@@ -30,3 +30,5 @@
 ||cdn.indexexchange.com^
 ||inmobi.com^
 ||youtubei.googleapis.com^
+||googletagmanager.com^
+||tagmanager.google.com^
