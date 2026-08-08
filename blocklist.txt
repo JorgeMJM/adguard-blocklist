@@ -15,3 +15,5 @@
 ||ads.yahoo.com^
 ||udcm.yahoo.com^
 ||partnerads.ysm.yahoo.com^
+||log.fc.yahoo.com^
+||gemini.yahoo.com^
