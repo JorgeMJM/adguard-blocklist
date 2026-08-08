@@ -23,3 +23,6 @@
 ||cdn.taboola.com^
 ||redirector.googlevideo.com^
 @@||s.youtube.com^
+||googletagmanager.com^
+||quantcast.com^
+
